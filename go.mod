@@ -7,7 +7,7 @@
 module k8s.io/kubernetes
 
 go 1.16
-
+dfdfdfdfddf
 require (
 	bitbucket.org/bertimus9/systemstat v0.0.0-20180207000608-0eeff89b0690
 	github.com/Azure/azure-sdk-for-go v55.0.0+incompatible
